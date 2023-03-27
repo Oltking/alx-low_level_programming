@@ -1,11 +1,8 @@
 #include "main.h"
-
 /**
- * main - to check the code in c programming
+ * reset_to_98 - function for pointer
  *
- * _putchar - output
- *
- * Return: return (0) if successful
+ * @n: parameter for int value
  */
 
 void reset_to_98(int *n)
